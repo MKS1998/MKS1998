@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **mohinayyad98@gmail.com**
+- 📫 How to reach me **mohinsayyad98@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1fOXr2y13YDyFIwwHMGaisuh_3Z0453di/edit](https://docs.google.com/document/d/1fOXr2y13YDyFIwwHMGaisuh_3Z0453di/edit)
 
