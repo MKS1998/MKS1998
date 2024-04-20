@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mks1998" alt="mks1998" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Linux**,**AWS**
 
-- 📫 How to reach me **mohinsayyad98@gmail.com**
+- 📫 How to reach me **mssayyad98@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1fOXr2y13YDyFIwwHMGaisuh_3Z0453di/edit](https://docs.google.com/document/d/1fOXr2y13YDyFIwwHMGaisuh_3Z0453di/edit)
 
