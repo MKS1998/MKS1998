@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mks1998" alt="mks1998" /></a> </p>
 
-- 🌱 I’m currently learning **Linux**,**AWS**
+- 🌱 I’m currently learning **Linux**,**AWS**,**Devops**.
 
 - 📫 How to reach me **mssayyad98@gmail.com**
 
